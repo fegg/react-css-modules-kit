@@ -1,0 +1,5 @@
+@value fontColor from "./const.css";
+
+.title {
+  color: fontColor;
+}

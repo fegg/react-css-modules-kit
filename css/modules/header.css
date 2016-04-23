@@ -1,0 +1,8 @@
+.outer {
+  composes: flex-centered from "../utils/align.css";
+  background: #009CD6;
+}
+
+.wrap {
+  font-size: 20px;
+}
