@@ -1,6 +1,6 @@
 ### 支持 React CSS Modules 的 3 种方式
 
-- css moduls，这是基本配置就支持的形式
+- css modules，这是基本配置就支持的形式
 - react-css-modules，需要`react-css-modules`库
 - radium，需要`radium`库
 
